@@ -1,1 +1,1 @@
-#Everyone will write their scenarios
+#Everyone will write their scenarios based on tehir USER STORIES
